@@ -17,6 +17,7 @@ module.exports = {
 logo: '/assets/img/manual.png',
     nav: [
       { text: 'Página Inicial', link: '/' },
+      { text: 'Formulários', link: '/guides/formulario/' },
       { text: 'Contagens de Tempo', link: '/guides/contagem/' },
       { text: 'Benefícios', link: '/guides/' },
       { text: 'Afastamentos', link: '/guides/' },
