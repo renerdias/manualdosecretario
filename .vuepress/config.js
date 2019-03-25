@@ -2,6 +2,7 @@ module.exports = {
   title: 'Manual do Secretário',
   description: 'Documentação',
   base: "/manualdosecretario/",
+  dest:"docs/",
   markdown: {
     lineNumbers: true
   },

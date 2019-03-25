@@ -4,7 +4,7 @@ home: true
 heroImage: manual.png
 actionText: Começar aqui →
 actionLink: /guides/contagem/
-footer: Rener Dias | 2019 - v0.1
+footer: Rener Dias | 2019 - v0.0.1
 ---
 
 <div class="features">
