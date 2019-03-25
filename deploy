@@ -1,0 +1,12 @@
+#!/bin/bash
+
+SERVER=200.129.17.30
+USER=operador
+DIST=docs.ifce.edu.br
+
+echo "-- build --"
+vuepress build
+
+echo "-- deploy --"
+scp -r .vuepress/dist/* $USER@$SERVER:/home/$USER/$DIST
+

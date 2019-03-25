@@ -1,0 +1,31 @@
+stages:
+  - build
+  - deploy
+
+build:
+  image: node:9
+  stage: build
+  tags:
+    - vuepress
+  script:
+    - npm install --cache
+    - npm run build
+
+  artifacts:
+    paths:
+      - .vuepress/dist
+    expire_in: 20 minutes
+
+  only:
+    - master 
+
+deploy:
+  image: alpine
+  stage: deploy
+  script:
+    - apk add --no-cache rsync openssh
+    - mkdir -p ~/.ssh
+    - echo "$SSH_PRIVATE_KEY" >> ~/.ssh/id_dsa
+    - chmod 600 ~/.ssh/id_dsa
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - rsync -rav --delete .vuepress/dist/ operador@docs.ifce.edu.br:/home/operador/docs.ifce.edu.br/
