@@ -14,7 +14,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: 'manual.svg',
+    logo: './assets/img/manual.svg',
     nav: [
       { text: 'Página Inicial', link: '/' },
       { text: 'Formulários', link: '/guides/formulario/' },
