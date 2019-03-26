@@ -97,10 +97,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="-644.37012"
+     inkscape:cx="-1798.6558"
      inkscape:cy="207.27493"
      inkscape:document-units="mm"
-     inkscape:current-layer="text6568"
+     inkscape:current-layer="g30"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
@@ -121,10 +121,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Camada 1"
+     inkscape:label="ORIGINAL"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-176.99998)">
+     transform="translate(0,-176.99998)"
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(0.57340519,0,0,0.60422756,-163.27282,-109.03803)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.94715118px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient1112);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -142,6 +144,31 @@
            x="315.02484"
            id="tspan6247"
            sodipodi:role="line">MS</tspan></text>
+    </g>
+  </g>
+  <g
+     transform="translate(0,-176.99998)"
+     id="g30"
+     inkscape:groupmode="layer"
+     inkscape:label="VETORIZADO"
+     style="display:inline">
+    <g
+       id="g28"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.94715118px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient1112);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.57340519,0,0,0.60422756,-163.27282,-109.03803)">
+      <g
+         aria-label="MS"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:187.5px;line-height:0%;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient21);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="text26">
+        <path
+           d="m 470.64984,492.92078 h -1.6875 l -55.875,83.0625 -33.375,-54.75 c -19.3125,-31.5 -50.625,-53.625 -86.25,-34.3125 l 0.5625,1.875 c 19.6875,-1.5 38.25,25.125 49.3125,44.25 l -13.125,80.4375 c -1.125,7.125 -6.9375,11.25 -13.5,11.25 h -3 v 1.875 h 41.0625 v -1.6875 h -3 c -4.125,0 -7.3125,-3.9375 -7.3125,-8.0625 v -0.75 l 9.375,-63 45.5625,78.1875 h 1.875 c -0.375,-10.125 7.6875,-21.9375 7.6875,-21.9375 l 32.0625,-47.625 8.625,39.75 c 12.9375,60.1875 56.25,74.0625 89.0625,60.1875 v -1.875 c -30.5625,1.875 -41.0625,-26.4375 -47.0625,-57.1875 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:187.5px;line-height:1.25;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient21);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path32" />
+        <path
+           d="m 563.99847,535.48328 c -8.8125,-5.0625 -17.4375,-8.625 -16.6875,-17.625 0.75,-9.1875 10.125,-15.75 25.5,-15.75 18.5625,0 29.8125,9.375 30,23.0625 h 1.6875 l 4.125,-30.375 h -14.625 c -10.875,-1.125 -24.9375,-2.0625 -31.6875,-2.0625 -25.875,0 -41.25,12.5625 -43.6875,33.5625 -2.0625,17.625 6,30.375 23.0625,40.5 l 30.5625,17.8125 c 31.5,17.8125 20.25,51 -14.0625,51 -33.5625,0 -58.3125,-31.5 -40.125,-64.3125 l -1.6875,-1.3125 c -23.625,33.1875 -3.9375,76.125 46.125,76.125 60.5625,0 85.125,-63.1875 36.5625,-90.75 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:187.5px;line-height:1.25;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient21);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path34" />
+      </g>
     </g>
   </g>
 </svg>
