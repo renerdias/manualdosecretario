@@ -3,6 +3,7 @@ title: Apuração de Frequência
 sidebar: auto
 ---
 
+[!IPVA](./arquivos/ipva.pdf)
 # Apuração e Registro da Frequência do Servidor
 
 O que você precisa saber sobre contagem de tempo? Vamos direto ao ponto!
