@@ -19,9 +19,11 @@ module.exports = {
       { text: 'Página Inicial', link: '/' },
       { text: 'Formulários', link: '/guides/formulario/' },
       { text: 'Contagens de Tempo', link: '/guides/contagem/' },
-      { text: 'Benefícios', link: '/guides/' },
-      { text: 'Afastamentos', link: '/guides/' },
-      { text: 'Guias', link: '/guides/' },
+      // { text: 'Benefícios', link: '/guides/' },
+      { text: 'Benefícios', link: '/guides/contagem/' },
+      { text: 'Afastamentos', link: '/guides/contagem/' },
+      { text: 'Aposentadoria', link: '/guides/contagem/' },
+      // { text: 'Guias', link: '/guides/' },
     ]
   }
 }

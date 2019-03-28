@@ -21,6 +21,10 @@ echo "-- deploy --"
 echo "-- Movendo logo --"
 cp -R ./assets/images/manual.svg ./docs/assets/img/manual.svg
 
+
+echo "-- Movendo imagem hero --"
+cp -R ./assets/images/manual.svg ./docs/manual.svg
+
 echo "-- Movendo arquivos de formulário --"
 cp -R ./guides/formulario/arquivos/ ./docs/guides/formulario/arquivos/
 
