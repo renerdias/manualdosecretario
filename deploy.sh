@@ -26,7 +26,7 @@ echo "-- Movendo imagem hero --"
 cp -R ./assets/images/manual.svg ./docs/manual.svg
 
 echo "-- Movendo arquivos de formulário --"
-cp -R ./guides/formulario/arquivos/ ./docs/guides/formulario/arquivos/
+cp -R ./rotas/formulario/arquivos/ ./docs/rotas/formulario/arquivos/
 
 
 # navigate into the build output directory
@@ -46,3 +46,4 @@ cp -R ./guides/formulario/arquivos/ ./docs/guides/formulario/arquivos/
 #git push -f git@github.com:renerdias/manualdosecretario.git master:gh-pages
 
 #cd -
+

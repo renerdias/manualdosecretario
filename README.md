@@ -3,7 +3,7 @@
 home: true
 heroImage: manual.svg
 actionText: Começar aqui →
-actionLink: /guides/contagem/
+actionLink: /rotas/contagem/
 footer: Rener Dias | 2019 - v0.0.1
 ---
 

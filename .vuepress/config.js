@@ -17,13 +17,13 @@ module.exports = {
     logo: 'assets/img/manual.svg',
     nav: [
       { text: 'Página Inicial', link: '/' },
-      { text: 'Formulários', link: '/guides/formulario/' },
-      { text: 'Contagens de Tempo', link: '/guides/contagem/' },
-      // { text: 'Benefícios', link: '/guides/' },
-      { text: 'Benefícios', link: '/guides/contagem/' },
-      { text: 'Afastamentos', link: '/guides/contagem/' },
-      { text: 'Aposentadoria', link: '/guides/contagem/' },
-      // { text: 'Guias', link: '/guides/' },
+      { text: 'Formulários', link: '/rotas/formulario/' },
+      { text: 'Contagens de Tempo', link: '/rotas/contagem/' },
+      // { text: 'Benefícios', link: '/rotas/' },
+      { text: 'Benefícios', link: '/rotas/contagem/' },
+      { text: 'Afastamentos', link: '/rotas/contagem/' },
+      { text: 'Aposentadoria', link: '/rotas/contagem/' },
+      // { text: 'Guias', link: '/rotas/' },
     ]
   }
 }
