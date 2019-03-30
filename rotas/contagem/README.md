@@ -33,9 +33,11 @@ O registro do Livro ou Folha de Ponto prevalece sobre quaisquer registros em out
 
 EXEMPLO:
 
-
 **O que fazer quando for constatado em Livro de Ponto a existência de espaço em branco onde deveria constar a assinatura do
 servidor ou algum registro sobre o que ocorreu (“faltoso”, “compareceu e deixou de assinar”, etc.)?**
+
+<a>Ver resposta</a>
+
 > Diretor deve consultar os registros de pagamento. Caso seja verificado que o servidor não teve a falta,
 deverá ser registrado no Livro de Ponto, no espaço em branco, ou no rodapé da página, ou onde melhor
 couber: “considerada a presença, conforme Listagem de Frequência”. Datar e assinar a regularização feita,
@@ -48,7 +50,7 @@ do Livro de Ponto, ainda que tenha havido pagamento; neste caso, deverá ser fei
 para que seja verificada a legalidade dos registros que geraram o pagamento que, se indevidos, não poderão
 ser considerados fonte fidedigna para emissão da Certidão de Contagem de Tempo de Serviço.
 
-
+<a>Fechar resposta</a>
 
 ## 2 - Frequência do Especialista em Educação Básica
 + Tem sua frequência apurada em dias;
