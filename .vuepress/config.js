@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Formulários', link: '/rotas/formulario/' },
       { text: 'Contagens de Tempo', link: '/rotas/contagem/' },
       // { text: 'Benefícios', link: '/rotas/' },
-      { text: 'Benefícios', link: '/rotas/contagem/' },
+      { text: 'Benefícios', link: '/rotas/beneficio/' },
       { text: 'Afastamentos', link: '/rotas/contagem/' },
       { text: 'Aposentadoria', link: '/rotas/contagem/' },
       // { text: 'Guias', link: '/rotas/' },
