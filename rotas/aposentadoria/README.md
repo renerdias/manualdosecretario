@@ -7,7 +7,8 @@ sidebar: auto
 
 
 Fonte: [https://jus.com.br/artigos/38674/](https://jus.com.br/artigos/38674/)    
-Autor: Alex Sertão (Professor de RPPS e advogado) 
+Autor original: Alex Sertão (Professor de RPPS e advogado)  
+Obs.: Texto adaptado
 
 
 ## 1. ANTES da edição da Emenda Constitucional nº 41/03
