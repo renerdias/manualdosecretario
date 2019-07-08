@@ -22,7 +22,13 @@ module.exports = {
       // { text: 'Benefícios', link: '/rotas/' },
       { text: 'Benefícios', link: '/rotas/beneficio/' },
       { text: 'Afastamentos', link: '/rotas/contagem/' },
-      { text: 'Aposentadoria', link: '/rotas/aposentadoria/' },
+      { text: 'Aposentadoria', 
+        link: '/rotas/aposentadoria/', 
+        items: [
+          { text: 'Processo', link: '/rotas/aposentadoria/' },
+          { text: 'Legislação', link: '/rotas/aposentadoria/' },
+        ]
+      },
       // { text: 'Guias', link: '/rotas/' },
     ]
   }
