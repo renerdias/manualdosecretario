@@ -15,3 +15,8 @@ sidebar: auto
 ::: danger RESUMINDO
 Se é a favor do Estado, monta processo, se for a favor do servidor, só retifica. :triumph:
 :::  
+
+### 1.1 Quinquênio
+
+#### Tempo misto (Administrativo/Magistério)
+Quando no período de tempo do Quinquênio, houver maior tempo de administrativo (quadro permanente, atb, asb), mesmo que o cargo atual seja magistério, benefício (QQ) deve ser administrativo.
