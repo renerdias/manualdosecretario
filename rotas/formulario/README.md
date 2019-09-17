@@ -35,6 +35,7 @@ sidebar: auto
 + [Férias-Prêmio Concessão](./arquivos/minutas/minuta_ferias_premio_concessao.docx) <Badge text="27/03/2019"/>
 + [Férias-Prêmio Conversão em Espécie](./arquivos/minutas/minuta_ferias_premio_conversao_especie.doc) <Badge text="27/03/2019"/>
 + [Férias-Prêmio Conversão em Espécie **Servidor Afastado**](./arquivos/minutas/minuta_ferias_premio_conversao_especie_servidor_afastado.doc) <Badge text="27/03/2019"/>
++ [Gratificação de Incentivo à Docência - **Biênio**](./arquivos/minutas/minuta_bienio.doc) <Badge text="11/09/2019"/>
 + [Licença à Gestante](./arquivos/minutas/minuta_licenca_gestante.doc) <Badge text="27/03/2019"/>
 + [Licença à Gestante Recém Nomeada](./arquivos/minutas/minuta_licenca_gestante_recem_nomeada.doc) <Badge text="27/03/2019"/>
 + [Licença Paternidade](./arquivos/minutas/minuta_licenca_paternidade.doc) <Badge text="27/03/2019"/>

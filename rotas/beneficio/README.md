@@ -7,7 +7,7 @@ sidebar: auto
 
 
 ## 1. Estudo de Benefícios
-
++ **VIGÊNCIA** é na data em que se completa o nº de dias necessários para direito ao benefício *(Orientação: Tatiana, Setor de Aposentadoria, SRE/GV)*;
 + Nova vigência é no **MÊS SEGUINTE** a publicação atual, **DEVE-SE MONTAR PROCESSO ADMINISTRATIVO**;
 + Nova vigência é no **MÊS ANTERIOR** a publicação atual, **DEVE-SE RETIFICAR O BENEFÍCIO**;
 + Nova vigência é no **MESMO MÊS** da publicação atual, **NÃO FAZER NADA**;
