@@ -56,7 +56,7 @@ sidebar: auto
 
 
 ## Acúmulo de Cargo
-   + 
++ [Declaração de Acúmulo de Cargo/Proventos(Aposentadoria)](./arquivos/declaracao-acumulo-cargos-proventos.doc) <Badge text="19/09/2019"/>
 
 ## Movimentação de Pessoal
    + 
