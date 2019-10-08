@@ -17,12 +17,13 @@ module.exports = {
     logo: '/assets/img/manual.svg',
     nav: [
       { text: 'Página Inicial', link: '/' },
+      { text: 'Secretaria', link: '/rotas/formulario/' },
       { text: 'Formulários', link: '/rotas/formulario/' },
       { 
         text: 'Contagens de Tempo', 
         link: '/rotas/contagem/',
         items: [
-          { text: 'Greves', link: '/rotas/contagem/itens/greve' },
+          { text: 'Greves / Paralizações', link: '/rotas/contagem/itens/greve' },
         ]
       },
       { 
@@ -41,11 +42,11 @@ module.exports = {
           { text: 'Férias-prêmio', link: '/rotas/beneficio/itens/ferias-premio' },
           { text: 'Gratificação de Educação Especial', link: '/rotas/beneficio/itens/gratificacao-educacao-especial' },
           { text: 'Gratificação de função de Vice-Diretor', link: '/rotas/beneficio/itens/gratificacao-vice-diretor' },
-          { text: 'Gratificação de função de Especialista em Educação Básica', link: '/rotas/aposentadoria/' },
-          { text: 'Gratificação de dedicação exclusiva', link: '/rotas/aposentadoria/' },
-          { text: 'Gratificação de Incentivo à Docência – Biênio', link: '/rotas/aposentadoria/' },
-          { text: 'Gratificação de Incentivo à Docência – Pó de giz', link: '/rotas/aposentadoria/' },
-          { text: 'Gratificação por curso de Pós-Graduação', link: '/rotas/aposentadoria/' },
+          { text: 'Gratificação de função de Especialista em Educação Básica', link: '/rotas/beneficio/itens/gratificacao-especialista' },
+          { text: 'Gratificação de dedicação exclusiva', link: '/rotas/beneficio/itens/gratificacao-dedicacao-exclusiva' },
+          { text: 'Gratificação de Incentivo à Docência – Biênio', link: '/rotas/beneficio/itens/bienio' },
+          { text: 'Gratificação de Incentivo à Docência – Pó de giz', link: '/rotas/beneficio/itens/gratificacao-po-de-giz' },
+          { text: 'Gratificação por curso de Pós-Graduação', link: '/rotas/beneficio/itens/gratificacao-pos-graduacao' },
           { text: 'Opção pelo regime de 40 horas semanais de trabalho', link: '/rotas/aposentadoria/' },
           { text: 'Opção por composição remuneratória', link: '/rotas/aposentadoria/' },
           { text: 'Opção por contribuição previdenciária', link: '/rotas/aposentadoria/' },
