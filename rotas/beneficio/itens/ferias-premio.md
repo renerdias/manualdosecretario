@@ -50,8 +50,13 @@ sidebar: auto
 :::
 
 
-Descontar dias de licença para tratamento de saúde que ultrapassarem 180 dias no período de aquisição. Tempo de designação pode ser contado após a investidura em cargo efetivo. Zona rural (art. 290 CE): servidor que desempenhe atividade em unidade escolar, localizada em zona rural, terá direito às férias-prêmio contadas em dobro, proporcionalmente ao tempo de serviço nesta unidade, em
+Descontar dias de licença para tratamento de saúde que ultrapassarem 180 dias no período de aquisição. Tempo de designação pode ser contado após a investidura em cargo efetivo. 
+
+
+**Zona rural (art. 290 CE)**: servidor que desempenhe atividade em unidade escolar, localizada em zona rural, terá direito às férias-prêmio contadas em dobro, proporcionalmente ao tempo de serviço nesta unidade, em
 relação à zona urbana, se integrante do quadro do magistério. Não se conta tempo ficto.
+
+
 A partir de 16/07/03, somente o servidor ocupante de cargo efetivo/efetivado ou de função pública estável pode adquirir férias-prêmio.
 <span style="color:red">
 **Não é computado, em hipótese alguma, tempo de INSS, mesmo que averbado.**

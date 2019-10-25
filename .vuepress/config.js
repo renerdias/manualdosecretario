@@ -30,6 +30,7 @@ module.exports = {
         text: 'Benefícios', 
         link: '/rotas/beneficio/', 
         items: [
+          { text: 'Remoção (?)', link: '/rotas/beneficio/itens/remocao' },
           { text: 'Abono 1.2 ou 1.17', link: '/rotas/beneficio/itens/abono-tempo-ficto' },
           { text: 'Arredondamento', link: '/rotas/beneficio/itens/arredondamento' },
           { text: 'Abono família', link: '/rotas/beneficio/itens/abono-familia' },
