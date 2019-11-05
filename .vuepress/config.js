@@ -17,7 +17,13 @@ module.exports = {
     logo: '/assets/img/manual.svg',
     nav: [
       { text: 'Página Inicial', link: '/' },
-      { text: 'Secretaria', link: '/rotas/formulario/' },
+      { 
+        text: 'Secretaria', 
+        link: '/rotas/secretaria/',
+        items: [
+          { text: 'Telefones Úteis', link: '/rotas/secretaria/itens/telefones' },
+        ]
+      },
       { text: 'Formulários', link: '/rotas/formulario/' },
       { 
         text: 'Contagens de Tempo', 
