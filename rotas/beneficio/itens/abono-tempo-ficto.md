@@ -18,8 +18,10 @@ sidebar: auto
 ---
 ### 3. Requisitos
 + Fato Gerador;
-+ Para aposentadoria:  até 16/12/98;
-+ Para benefícios: até 16/07/03
++ Somente poderá ser usado: 
+    - A partir de 21-09-1989 (Data da Constituição do Estado);
+    - Para aposentadoria:  até 16/12/98;
+    - Para benefícios: até 16/07/03;
 ---
 ### 4. Direito assegurado
 Proporcionalidade sobre o tempo de magistério anterior ao fato gerador:

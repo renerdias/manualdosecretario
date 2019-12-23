@@ -47,6 +47,7 @@ module.exports = {
           { text: 'Alteração de titulação', link: '/rotas/beneficio/itens/alteracao-titulacao' },
           { text: 'Apostilamento (título declaratório)', link: '/rotas/beneficio/itens/apostilamento' },
           { text: 'Férias-prêmio', link: '/rotas/beneficio/itens/ferias-premio' },
+          { text: 'Férias-prêmio - Contagem em Dobro', link: '/rotas/beneficio/itens/ferias-premio-dobro' },
           { text: 'Gratificação de Educação Especial', link: '/rotas/beneficio/itens/gratificacao-educacao-especial' },
           { text: 'Gratificação de função de Vice-Diretor', link: '/rotas/beneficio/itens/gratificacao-vice-diretor' },
           { text: 'Gratificação de função de Especialista em Educação Básica', link: '/rotas/beneficio/itens/gratificacao-especialista' },

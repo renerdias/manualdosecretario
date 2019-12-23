@@ -51,8 +51,8 @@ sidebar: auto
 
 ## Contagem de Tempo
 
-+ [Certidão de contagem de tempo](./arquivos/contagem_tempo.xls) <Badge text="27-03-2019" type="warn"/><Badge text="NOVO!" type="error"/> 
-+ [Certidão de contagem de tempo para avaliação de desempenho](./arquivos/contagem_tempo.xls) <Badge text="27/03/2019"/>
++ [Certidão de contagem de tempo](./arquivos/contagem_tempo.xlsx) <Badge text="27-03-2019" type="warn"/><Badge text="NOVO!" type="error"/> 
++ [Certidão de contagem de tempo para avaliação de desempenho](./arquivos/contagem_tempo.xlsx) <Badge text="27/03/2019"/>
 
 
 ## Acúmulo de Cargo
