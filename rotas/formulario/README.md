@@ -52,32 +52,32 @@ sidebar: auto
 
 ## Contagem de Tempo
 
-+ [Certidão de contagem de tempo](./arquivos/contagem_tempo/contagem_tempo.xlsx) 
-+ [Certidão de contagem de tempo para avaliação de desempenho](./arquivos/contagem_tempo/contagem_tempo.xlsx) 
-+ [Certidão municipal de contagem de tempo (modelo)](./arquivos/contagem_tempo/contagem_tempo_certidao_municipal_modelo.doc) 
++ [Certidão de contagem de tempo](./arquivos/contagem_tempo/contagem_tempo.ods) 
++ [Certidão de contagem de tempo para avaliação de desempenho](./arquivos/contagem_tempo/contagem_tempo.ods) 
++ [Certidão municipal de contagem de tempo (modelo)](./arquivos/contagem_tempo/contagem_tempo_certidao_municipal_modelo.odt) 
 
 
 ## Aposentadoria
-+ [Declaração de Acúmulo de Cargo/Proventos(Aposentadoria)](./arquivos/aposentadoria/declaracao_acumulo_cargos_proventos.doc)
-+ [Ficha funcional branca](./arquivos/aposentadoria/ficha_funcional_branca.xlsx)
-+ [Ficha funcional verde](./arquivos/aposentadoria/ficha_funcional_verde.xlsx)
-+ [FIPA](./arquivos/aposentadoria/fipa.xls)
-+ [Média Quinquenal](./arquivos/aposentadoria/media_quinquenal.doc)
-+ [Estudo de Férias-Prêmio](./arquivos/aposentadoria/estudo_ferias_premio.xls)
-+ [Estudo de Quinquênio](./arquivos/aposentadoria/estudo_quinquenio.xls)
-+ [Estudo de Aposentadoria](./arquivos/aposentadoria/estudo_aposentadoria.xlsx)
-+ [Detalhamento de tempo (para servidor com 02 admissões)](./arquivos/aposentadoria/detalhamento_tempo.xlsx)
-+ [Etiquetas para pasta de aposentadoria](./arquivos/aposentadoria/etiquetas_pasta_aposentadoria.xlsx)
++ [Declaração de Acúmulo de Cargo/Proventos(Aposentadoria)](./arquivos/aposentadoria/declaracao_acumulo_cargos_proventos.odt)
++ [Ficha funcional branca](./arquivos/aposentadoria/ficha_funcional_branca.ods)
++ [Ficha funcional verde](./arquivos/aposentadoria/ficha_funcional_verde.ods)
++ [FIPA](./arquivos/aposentadoria/fipa.ods)
++ [Média Quinquenal](./arquivos/aposentadoria/media_quinquenal.ods)
++ [Estudo de Férias-Prêmio](./arquivos/aposentadoria/estudo_ferias_premio.ods)
++ [Estudo de Quinquênio](./arquivos/aposentadoria/estudo_quinquenio.ods)
++ [Estudo de Aposentadoria](./arquivos/aposentadoria/estudo_aposentadoria.ods)
++ [Detalhamento de tempo (para servidor com 02 admissões)](./arquivos/aposentadoria/detalhamento_tempo.ods)
++ [Etiquetas para pasta de aposentadoria](./arquivos/aposentadoria/etiquetas_pasta_aposentadoria.ods)
 + [](./arquivos/aposentadoria/)
 
 
 
 ## Acúmulo de Cargo
-+ [CheckList](./arquivos/acumulo_cargo/acumulo_cargo_checklist.doc)
-+ [Declaração](./arquivos/acumulo_cargo/acumulo_cargo_declaracao.doc)
-+ [Detalhamento](./arquivos/acumulo_cargo/acumulo_cargo_detalhamento.doc)
-+ [Tramitação prioritária para quem tem mais de 60 anos](./arquivos/acumulo_cargo/acumulo_cargo_tramitacao_prioritaria_mais_60_anos.doc)
-+ [Tramitação prioritária para portador de doença grave](./arquivos/acumulo_cargo/acumulo_cargo_tramitacao_prioritaria_portador_doenca_grave.doc)
++ [CheckList](./arquivos/acumulo_cargo/acumulo_cargo_checklist.odt)
++ [Declaração](./arquivos/acumulo_cargo/acumulo_cargo_declaracao.odt)
++ [Detalhamento](./arquivos/acumulo_cargo/acumulo_cargo_detalhamento.odt)
++ [Tramitação prioritária para quem tem mais de 60 anos](./arquivos/acumulo_cargo/acumulo_cargo_tramitacao_prioritaria_mais_60_anos.odt)
++ [Tramitação prioritária para portador de doença grave](./arquivos/acumulo_cargo/acumulo_cargo_tramitacao_prioritaria_portador_doenca_grave.odt)
 
 
 ## SISAP
