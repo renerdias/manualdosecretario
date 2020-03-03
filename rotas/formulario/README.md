@@ -7,19 +7,19 @@ sidebar: auto
 # Lista de Formulários
 
 ## Requerimentos
-+ [Afastamento Preliminar](./arquivos/requerimentos/requerimento_afastamento_preliminar.doc)
-+ [Aposentadoria](./arquivos/requerimentos/requerimento_aposentadoria.doc) 
-+ [Abono Permanência](./arquivos/requerimentos/requerimento_abono_permanencia.doc)
-+ [Comum de Serviços](./arquivos/requerimentos/requerimento_comum_servicos.doc) 
-+ [Requerimento diverso](./arquivos/requerimentos/requerimento_diverso.doc)
-+ [Microfilmagem](./arquivos/requerimentos/requerimento_microfilmagem.doc) 
++ [Afastamento Preliminar](./arquivos/requerimentos/requerimento_afastamento_preliminar.odt)
++ [Aposentadoria](./arquivos/requerimentos/requerimento_aposentadoria.odt) 
++ [Abono Permanência](./arquivos/requerimentos/requerimento_abono_permanencia.odt)
++ [Comum de Serviços](./arquivos/requerimentos/requerimento_comum_servicos.odt) 
++ [Requerimento diverso](./arquivos/requerimentos/requerimento_diverso.odt)
++ [Microfilmagem](./arquivos/requerimentos/requerimento_microfilmagem.odt) 
 + [Movimentação de Pessoal](./arquivos/requerimentos/requerimento_movimentacao_pessoal.pdf)
 
 
 
 ## Pagamento
 
-+ [Reclamação de Pagamento](./arquivos/reclamacao_pagamento.doc)
++ [Reclamação de Pagamento](./arquivos/reclamacao_pagamento.odt)
 
 
 ## Minutas
@@ -82,15 +82,15 @@ sidebar: auto
 
 ## SISAP
 + [Implantação e atualização de dados pessoais (pdf)](./arquivos/sisap/sisap_implantacao_atualizacao_dados_pessoais.pdf)
-+ [Implantação e atualização de dados pessoais (word)](./arquivos/sisap/sisap_implantacao_atualizacao_dados_pessoais.doc)
++ [Implantação e atualização de dados pessoais (word)](./arquivos/sisap/sisap_implantacao_atualizacao_dados_pessoais.odt)
 
 
 ## Movimentação de Pessoal
    + 
 
 ## Férias
-+ [Férias-Prêmio - Escala](./arquivos/ferias/ferias_premio_escala.doc)
-+ [Férias-Prêmio - Histórico](./arquivos/ferias/ferias_premio_historico.doc)
++ [Férias-Prêmio - Escala](./arquivos/ferias/ferias_premio_escala.odt)
++ [Férias-Prêmio - Histórico](./arquivos/ferias/ferias_premio_historico.odt)
 + [](./arquivos/ferias/)
 + [](./arquivos/ferias/)
 
@@ -98,10 +98,10 @@ sidebar: auto
    + 
 
 ## Imposto de Renda
-+ [Cadastro de dependente](./arquivos/imposto_renda_cadastro_dependente.doc)
++ [Cadastro de dependente](./arquivos/imposto_renda_cadastro_dependente.odt)
 
 ## IPSEMG
-+ [Adesão](./arquivos/ipsemg/ipsemg_adesao.xlsx)
++ [Adesão](./arquivos/ipsemg/ipsemg_adesao.ods)
 + [](./arquivos/ipsemg/)
 
 ## Avaliação de Desempenho
@@ -114,9 +114,9 @@ sidebar: auto
    +
 
 ## Declaração
-+ [Frequência Escolar](./arquivos/declaracao/declaracao_frequencia.doc)
-+ [Histórico Escolar](./arquivos/declaracao/declaracao_historico.doc)
-+ [E. E. São Geraldo - Zona Rural/Extinta (modelo municipal)](./arquivos/declaracao/declaracao_escola_sao_geraldo_zona_rural_modelo.docx)
++ [Frequência Escolar](./arquivos/declaracao/declaracao_frequencia.odt)
++ [Histórico Escolar](./arquivos/declaracao/declaracao_historico.odt)
++ [E. E. São Geraldo - Zona Rural/Extinta (modelo municipal)](./arquivos/declaracao/declaracao_escola_sao_geraldo_zona_rural_modelo.odt)
 
 ## Outros
 + [Requerimento de promoção por escolaridade modelo A](./arquivos/requerimentos/requerimento_promocao_escolaridade_modelo_a.pdf)
