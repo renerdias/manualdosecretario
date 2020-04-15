@@ -4,7 +4,7 @@ sidebar: auto
 ---
 
 
-## SRE / Governdador Valadares
+## SRE / Governador Valadares
 + Microfilmagem:
     - Tel.: (33) 3203-3093
     - Responsável: Matheus / Liege
