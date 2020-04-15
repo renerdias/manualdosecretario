@@ -46,10 +46,6 @@ sidebar: auto
 + [Revogação](./arquivos/minutas/minuta_revogacao.doc)
 
 
-
-
-<pl-button color="primary"/>
-
 ## Contagem de Tempo
 
 + [Certidão de contagem de tempo](./arquivos/contagem_tempo/contagem_tempo.ods) 
@@ -96,7 +92,7 @@ sidebar: auto
 + [Requerimento de Vinculação](./arquivos/vinculacao_tempo/requerimento-vinculacao_tempo.odt)
 + [Estudo de Férias-Prêmio](./arquivos/vinculacao_tempo/estudo_ferias_premio-vinculacao_tempo.ods)
 + [Férias-prêmio concessão com_usufruto anterior](./arquivos/vinculacao_tempo/ferias_premio_concessao_com_usufruto_anterior-vinculacao_tempo.odt)
-+ [Férias-prêmio concessão](./arquivos/vinculacao_tempo/ferias_premio_concessao-vinculacao_tempo.odt)
++ [Férias-prêmio Concessão](./arquivos/vinculacao_tempo/ferias_premio_concessao-vinculacao_tempo.odt)
 
 
 ## Movimentação de Pessoal
