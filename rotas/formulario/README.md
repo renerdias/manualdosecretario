@@ -82,7 +82,7 @@ sidebar: auto
 
 
 ## Vinculação de Tempo
-**OBS.: Alguns formulários desta seção estão com alguns dados, APENAS para melhor compreensão quanto ao seu preenchimento,então NÃO SE ESQUECE de apagá-los, antes da utilização dos mesmos.**
+**OBS.: Alguns formulários desta seção estão com alguns dados, APENAS para melhor compreensão quanto ao seu preenchimento, então, NÃO SE ESQUECE de apagá-los, antes da utilização dos mesmos.**
 
 + [Orientações.odt](./arquivos/vinculacao_tempo/orientacao-vinculacao_tempo.odt)
 + [Requerimento de manifestacao de interesse](./arquivos/vinculacao_tempo/requerimento_manifestacao-vinculacao_tempo.odt)

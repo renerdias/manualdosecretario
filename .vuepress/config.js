@@ -87,10 +87,10 @@ module.exports = {
         ]
       },
       { text: 'Aposentadoria', 
-        link: '/rotas/aposentadoria/', 
         items: [
           { text: 'Processo', link: '/rotas/aposentadoria/' },
           { text: 'Legislação', link: '/rotas/aposentadoria/' },
+          { text: 'Regras de Aposentadoria', link: '/rotas/aposentadoria/regras/regras' },
         ]
       },
       // { text: 'Guias', link: '/rotas/' },
