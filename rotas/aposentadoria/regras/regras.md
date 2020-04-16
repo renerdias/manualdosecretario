@@ -51,8 +51,8 @@
 <tr>
     <td colspan="4">
       Requisitos adicionais: <br>
-      Ser titular de cargo efetivo a partir de 2004 e possuir:
-      + 10 anos de serviço público;
+      Ser titular de cargo efetivo a partir de 2004 e possuir:<br>
+      + 10 anos de serviço público;<br>
       + 5 anos de efetivo exercício no cargo em que se dará a aposentadoria;
     </td>
 </tr>
@@ -93,9 +93,9 @@
 <tr>
     <td colspan="4">
       Requisitos adicionais: <br>
-      Ter iniciado no cargo efetivo até 31-12-2003 e possuir:
-      + 20 anos de serviço público;
-      + 10 anos de carreira;
+      Ter iniciado no cargo efetivo até 31-12-2003 e possuir:<br>
+      + 20 anos de serviço público;<br>
+      + 10 anos de carreira;<br>
       + 5 anos de efetivo exercício no cargo em que se dará a aposentadoria;
     </td>
 </tr>
@@ -171,9 +171,9 @@
 <tr>
     <td colspan="5">
       Requisitos adicionais: <br>
-      Ter iniciado no cargo público até 15-12-1998 (efetivo ou designado, **e se for designado, a partir desta data, desde que não tenha nenhum dia de interrupção nos contratos**) e possuir:
-      + 25 anos de efetivo exercício no serviço público;
-      + 15 anos de carreira;
+      Ter iniciado no cargo público até 15-12-1998 (efetivo ou designado, <strong>e se for designado, a partir desta data, desde que não tenha nenhum dia de interrupção nos contratos</strong>) e possuir:<br>
+      + 25 anos de efetivo exercício no serviço público;<br>
+      + 15 anos de carreira;<br>
       + 5 anos de efetivo exercício no cargo em que se dará a aposentadoria;
     </td>
 </tr>
