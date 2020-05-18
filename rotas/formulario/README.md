@@ -82,16 +82,16 @@ sidebar: auto
 
 
 ## Vinculação de Tempo
-**OBS.: Alguns formulários desta seção estão com alguns dados, APENAS para melhor compreensão quanto ao seu preenchimento, então, NÃO SE ESQUECE de apagá-los, antes da utilização dos mesmos.**
+**OBS.: Alguns formulários desta seção estão com alguns dados, APENAS para melhor compreensão quanto ao seu preenchimento, então, NÃO ESQUEÇA de apagá-los, antes da utilização dos mesmos.**
 
-+ [Orientações.odt](./arquivos/vinculacao_tempo/orientacao-vinculacao_tempo.odt)
++ [Orientações](./arquivos/vinculacao_tempo/orientacao-vinculacao_tempo.odt)
 + [Requerimento de manifestacao de interesse](./arquivos/vinculacao_tempo/requerimento_manifestacao-vinculacao_tempo.odt)
 + [Requerimento comum de servicos](./arquivos/vinculacao_tempo/requerimento_comum_servicos-vinculacao_tempo.odt)
 + [Capa](./arquivos/vinculacao_tempo/capa-vinculacao_tempo.odt)
 + [Detalhamento de Tempo Utilizado](./arquivos/vinculacao_tempo/detalhamento_tempo_usado-vinculacao_tempo.ods)
 + [Requerimento de Vinculação](./arquivos/vinculacao_tempo/requerimento-vinculacao_tempo.odt)
 + [Estudo de Férias-Prêmio](./arquivos/vinculacao_tempo/estudo_ferias_premio-vinculacao_tempo.ods)
-+ [Férias-prêmio concessão com_usufruto anterior](./arquivos/vinculacao_tempo/ferias_premio_concessao_com_usufruto_anterior-vinculacao_tempo.odt)
++ [Férias-prêmio concessão com usufruto anterior](./arquivos/vinculacao_tempo/ferias_premio_concessao_com_usufruto_anterior-vinculacao_tempo.odt)
 + [Férias-prêmio Concessão](./arquivos/vinculacao_tempo/ferias_premio_concessao-vinculacao_tempo.odt)
 
 
