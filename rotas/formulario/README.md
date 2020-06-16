@@ -48,6 +48,7 @@ sidebar: auto
 
 ## Contagem de Tempo
 
++ [Planilha de Relação de Livros de Ponto para Conferência](./arquivos/contagem_tempo/ponto_conferencia.xlsx) 
 + [Certidão de contagem de tempo](./arquivos/contagem_tempo/contagem_tempo.ods) 
 + [Certidão de contagem de tempo para avaliação de desempenho](./arquivos/contagem_tempo/contagem_tempo.ods) 
 + [Certidão municipal de contagem de tempo (modelo)](./arquivos/contagem_tempo/contagem_tempo_certidao_municipal_modelo.odt) 
@@ -58,7 +59,7 @@ sidebar: auto
 + [Ficha funcional branca](./arquivos/aposentadoria/ficha_funcional_branca.ods)
 + [Ficha funcional verde](./arquivos/aposentadoria/ficha_funcional_verde.ods)
 + [FIPA](./arquivos/aposentadoria/fipa.ods)
-+ [Média Quinquenal](./arquivos/aposentadoria/media_quinquenal.ods)
++ [Média Quinquenal](./arquivos/aposentadoria/media_quinquenal.odt)
 + [Estudo de Férias-Prêmio](./arquivos/aposentadoria/estudo_ferias_premio.ods)
 + [Estudo de Quinquênio](./arquivos/aposentadoria/estudo_quinquenio.ods)
 + [Estudo de Aposentadoria](./arquivos/aposentadoria/estudo_aposentadoria.ods)

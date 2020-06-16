@@ -91,3 +91,16 @@ Para comprovar tempo de Zona Rural, é exigida a declaração da Prefeitura ou d
 localidade pertencia à Zona Rural no referido período.
 
 
+
+DUVIDAS E RESPOSTAS:
+
+
+
+Bom dia, estou trabalhando na pasta de uma servidora para aposentadoria, mas tenho os seguinte problemas/dúvidas:
+
+- Na admissão 3, foi usado o tempo da admissão 1, a partir da data de exercício na admissão 3 (23-10-2014), porém em sua pasta não consta processo de vinculação de tempo, apenas formulário Requerimento (Vinculação de Tempo), datado de 03-03-2016, assinado pela servidora, então, recriei (ou criei ) o processo nesta data, assinada pela servidora, preenchi as minutas de retificação do 2º, 3º, 4º e 5º QQ de Férias-Prêmio, para a "nova" data de vinculação, porém na admissão 1, a servidora teve a concessão de 1º QQ de Férias-prêmio e usufruiu de 01 mês, então no 1º QQ de Férias-prêmio usando o tempo vinculado, tenho que descontar esse mês usufruído, mas como retificar essa publicação, qual a maneira correta de preencher informar, como proceder nessa situação?
+
+R: Você vai retificar o ato de concessão do 1º qq de férias-prêmio referente a admissão 03, da seguinte forma: onde se lê: 03 meses referentes ao 1º qq de férias-prêmio a/c de 23/10/2014, leia-se: 02 meses referente ao 1º qq de férias-prêmio a/c de 03/03/2016 data da vinculação, com aproveitamento de tempo do PEB1A do qual foi dispensado, dos quais usufruiu 01 mês.
+
+Att. Analistas de Aposentadoria
+

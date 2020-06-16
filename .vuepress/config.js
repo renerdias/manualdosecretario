@@ -63,6 +63,7 @@ module.exports = {
           { text: 'Promoção por Escolaridade Adicional', link: '/rotas/beneficio/itens/promocao-escolaridade' },
           { text: 'Quinquênio (adicionais por tempo de serviço)', link: '/rotas/beneficio/itens/quinquenio' },
           { text: 'Redução de jornada de trabalho', link: '/rotas/beneficio/itens/reducao-jornada' },
+          { text: 'Média Quinquenal', link: '/rotas/beneficio/itens/media-quinquenal' },
           { text: 'Outros', link: '/rotas/aposentadoria/', items: [{ text: 'teste', link: '/rotas/aposentadoria/' }] },
         ]
       },
