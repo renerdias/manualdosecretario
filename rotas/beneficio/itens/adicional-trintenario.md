@@ -12,7 +12,9 @@
 
 ### 3. Requisitos
 + 30 anos de serviço (independente do cargo, função, sexo, idade ou tipo de aposentadoria);
-+ Antes de 30 anos, se implementado o interstício para aposentadoria com proventos integrais, desde que o ingresso no serviço público do Estado de Minas Gerais tenha ocorrido até 16/07/03, data da publicação da EC 57/03;
++ Antes de 30 anos:
+    - Ter ingressado no serviço público do Estado de Minas Gerais até 16/07/03, data da publicação da EC 57/03;
+    - Ter implementado o interstício para aposentadoria com proventos integrais;
 ---
 
 ### 4. Direito assegurado

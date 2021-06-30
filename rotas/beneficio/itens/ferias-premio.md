@@ -104,3 +104,14 @@ R: Você vai retificar o ato de concessão do 1º qq de férias-prêmio referent
 
 Att. Analistas de Aposentadoria
 
+
+
+ACRESCENTAR
+
+dia 13 ou 18, conferir
+Até 13-12-94, não existia Quinquênio de Férias-Prêmio, e sim, Decênio com direito a 06 meses de FP;
+Quem não tem 10 anos até 13-12-1994, mas tem + de anos, seu QQ de FP terá a data de 14-12-1994;
+
+
+Ex-Lei 100:
+Em admissões ex-lei 100, não mexer nos benefícios, não conceder, não retificar, NÃO FAZER NADA;

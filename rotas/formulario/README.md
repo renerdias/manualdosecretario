@@ -23,6 +23,13 @@ sidebar: auto
 
 
 ## Minutas
+
+### Utilizado para concessão de férias-prêmio, a servidor efetivo, no período compreendido entre 28/05/2020 e 31/12/2021, cujo usufruto se dará a partir de 01/01/2022, adaptada conforme a OR 04/20 SEPLAG/SCAP e Memorando 94/20 /SEE/SG. As situações que antecedem a data de 28/05, devem ser Enviadas na minuta normal)](./arquivos/minutas/minuta_ferias_premio_concessao_zona_rural_covid.docx)
++ [Férias-Prêmio Concessão - COVID](./arquivos/minutas/minuta_ferias_premio_concessao_covid.docx)
++ [Férias-Prêmio Concessão - Zona Rural - COVID](./arquivos/minutas/minuta_ferias_premio_concessao_zona_rural_covid.docx)
++ [Revogação - Férias-Prêmio - COVID](./arquivos/minutas/minuta_revogacao_ferias_premio_covid.docx)
+
+
 + [Adicional por Tempo de Serviço](./arquivos/minutas/minuta_adicional_tempo_servico.doc)
 + [Abono Permanência](./arquivos/minutas/minuta_abono_permanencia.doc)
 + [Afastamento Preliminar à Aposentadoria](./arquivos/minutas/minuta_afastamento_preliminar.doc)
@@ -34,6 +41,8 @@ sidebar: auto
 + [Férias-Prêmio Afastamento na Escala](./arquivos/minutas/minuta_ferias_premio_afastamento_escala.docx)
 + [Férias-Prêmio Afastamento Fora da Escala](./arquivos/minutas/minuta_ferias_premio_afastamento_fora_escala.docx)
 + [Férias-Prêmio Concessão](./arquivos/minutas/minuta_ferias_premio_concessao.docx)
+
+
 + [Férias-Prêmio Conversão em Espécie](./arquivos/minutas/minuta_ferias_premio_conversao_especie.doc)
 + [Férias-Prêmio Conversão em Espécie **Servidor Afastado**](./arquivos/minutas/minuta_ferias_premio_conversao_especie_servidor_afastado.doc) 
 + [Gratificação de Incentivo à Docência - **Biênio**](./arquivos/minutas/minuta_bienio.doc)
@@ -99,6 +108,10 @@ sidebar: auto
 ## Movimentação de Pessoal
    + 
 
+## Progressão e Promoção
++ [Requerimento de promoção por escolaridade modelo A (Servidores com exercício até 31-12-2007)](./arquivos/requerimentos/requerimento_promocao_escolaridade_modelo_a.pdf)
++ [Requerimento de promoção por escolaridade modelo B (Servidores com exercício a partir de 01-01-2008](./arquivos/requerimentos/requerimento_promocao_escolaridade_modelo_b.pdf)
+
 ## Férias
 + [Férias-Prêmio - Escala](./arquivos/ferias/ferias_premio_escala.odt)
 + [Férias-Prêmio - Histórico](./arquivos/ferias/ferias_premio_historico.odt)
@@ -130,7 +143,6 @@ sidebar: auto
 + [E. E. São Geraldo - Zona Rural/Extinta (modelo municipal)](./arquivos/declaracao/declaracao_escola_sao_geraldo_zona_rural_modelo.odt)
 
 ## Outros
-+ [Requerimento de promoção por escolaridade modelo A](./arquivos/requerimentos/requerimento_promocao_escolaridade_modelo_a.pdf)
 + [Matrícula escolar (Antiga)](./arquivos/matricula_escolar.pdf)
 + [](./arquivos/)
 + [](./arquivos/)

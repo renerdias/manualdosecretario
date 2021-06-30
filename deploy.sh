@@ -1,19 +1,12 @@
 #!/usr/bin/env sh
 
 
-SERVER=200.129.17.30
-USER=operador
-DIST=docs.ifce.edu.br
-
-
-
-
 # abort on errors
 #set -e
 
 # build
 echo "-- build --"
-vuepress build
+npm run build
 
 echo "-- deploy --"
 

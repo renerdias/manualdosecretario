@@ -1,9 +1,6 @@
 <template>
-<button class="button" :class="classNames" @click.capture="onClick" @click.capture.native="onClick">
-  <pl-icon v-if="iconLeft" :icon="iconLeft" :class="{'is-left': iconLeft}"></pl-icon>
-  <pl-icon v-if="icon" :icon="icon"></pl-icon>
-    <slot></slot>{{label}}
-    <pl-icon v-if="iconRight" :icon="iconRight" :class="{'is-right': iconRight}"></pl-icon>
+<button class="button">
+asda
   </button>
 </template>
 

@@ -1,13 +1,20 @@
 ---
 title: Abono 1.2 e 1.17
-sidebar: auto
+# sidebar: auto
 ---
 
 # Abono 1.2 e 1.17 – Tempo ficto
 
 > :smiley: Período em que não há efetiva prestação de serviços nem contribuição previdenciária.
 
+<pl-button>saad
+
+</pl-button>
+
+<pg-divider content-position="left">
 ### 1. Base Legal
+</pg-divider>
+
 
 + CE/89 (art. 285);
 + EC 03/92;
@@ -18,7 +25,7 @@ sidebar: auto
 ---
 ### 3. Requisitos
 + Fato Gerador;
-+ Somente poderá ser usado: 
++ Esse tempo ficto gerado, somente poderá ser usado: 
     - A partir de 21-09-1989 (Data da Constituição do Estado);
     - Para aposentadoria:  até 16/12/98;
     - Para benefícios: até 16/07/03;
